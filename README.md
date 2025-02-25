@@ -10,4 +10,5 @@ You can export your drawings to a text file by pressing the S key
 
 brushs : ■ ▤ ▥ ▦ ▩ ● □(eraser)
 
-![clipainter](https://github.com/user-attachments/assets/69da1ddb-b157-4478-8357-5319c6d5be92)
+
+![clipainter](https://github.com/user-attachments/assets/34ebf550-efe4-4469-8097-77c827ce90ac)
